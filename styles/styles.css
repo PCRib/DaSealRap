@@ -16,3 +16,12 @@ body {
     font-size: 80px; 
     color: peachpuff;
 }
+
+.background {
+    background-color: rgba(255, 218, 185, 0.6);
+    
+}
+
+.seal{
+    border: solid peachpuff 10px;
+}
